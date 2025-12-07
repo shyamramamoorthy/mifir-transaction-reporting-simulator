@@ -124,5 +124,41 @@ python -m mifir_simulator.pipeline
 
 ---
 
-Thank you for reviewing this project.
-It is a practical demonstration of my ability to deliver regulatory, data-heavy, and operations-focused initiatives.
+## 8. Skills Demonstrated (Detailed)
+
+### 🔹 Regulatory & Compliance Understanding
+
+* Interpreting MiFIR RTS 22 requirements
+* Translating regulatory text into data and reporting logic
+* Understanding ARM validation behaviour and reject scenarios
+* Designing reporting processes aligned with control expectations
+
+### 🔹 Data, Mapping & Controls
+
+* Building field-level mappings (input → RTS22 output)
+* Designing rule-based and hard-coded transformations
+* Documenting data lineage and dependencies
+* Creating validation logic for completeness, accuracy & consistency
+
+### 🔹 Operational Process Modelling
+
+* Designing exception handling and reject management
+* Creating golden-source outputs for testing
+* Thinking through BAU workflows and control frameworks
+
+### 🔹 Delivery & Documentation
+
+* Structuring the work into phases that mirror real regulatory programmes
+* Writing functional specifications and phased delivery plans
+* Maintaining clear documentation (README, spec, mapping, rules)
+* Using Git/GitHub for version control and project transparency
+
+### 🔹 Technical Competency (Light but Valuable for PMs)
+
+* Working with CSV/XLSX data
+* Using Python (planned in Phase 9+) to simulate reporting logic
+* Designing a modular pipeline architecture (mapping → validation → output)
+* Creating automated tests to compare generated outputs to manual ones
+
+This project demonstrates my ability to lead **data-heavy, regulation-driven, multi-phase** initiatives in a banking environment.
+
