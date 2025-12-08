@@ -1,7 +1,5 @@
 # MiFIR RTS 22 Transaction Reporting Simulator
 
-*A hands-on learning and demonstration project for regulatory change & operations-focused PM roles.*
-
 This project simulates the end-to-end **MiFIR RTS 22 Transaction Reporting process**, following the same structure a bank uses when delivering a regulatory change project.
 
 It demonstrates:
